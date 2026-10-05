@@ -1,0 +1,12 @@
+228;Covanera
+157;El Molino
+171;Tablada del Rudrón
+96;Tubilla del Agua
+632;Gredilla de Sedano
+535;Moradillo de Sedano
+476;Mozuelos de Sedano
+390;Nidáguila
+513;Quintanaloma
+608;Sedano
+438;Terradillos de Sedano
+743;Masa

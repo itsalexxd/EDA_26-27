@@ -1,0 +1,176 @@
+83;Abajas
+62;Bárcena de Bureba
+153;Aguas Cándidas
+211;Quintanaopio
+188;Río Quintanilla
+288;Escóbados de Abajo
+320;Escóbados de Arriba
+10386;Huidobro
+394;Pesadas de Burgos
+365;Villaescusa del Butrón
+245;Villalta
+498;Los Barrios de Bureba
+1085;Barrio Panizares
+983;Basconcillos del Tozo
+708;Fuente Urbel
+1029;Hoyos del Tozo
+631;La Piedra
+925;Prádanos del Tozo
+802;La Rad
+853;San Mamés de Abar
+683;Santa Cruz del Tozo
+742;Talamillo del Tozo
+879;Trashaedo
+1145;Cantabrana
+1271;Arconada
+1263;Valdearnedo
+1243;Carcedo de Bureba
+1221;Quintanaurria
+1321;Ahedo de Bureba
+1313;Galbarros
+1328;San Pedro de la Hoz
+1408;Borcos
+1462;Espinosilla de San Bartolomé
+1432;La Parte
+1364;Solano
+1543;Huérmeces
+1651;Quintanilla Pedro Abarca
+1580;Ruyales del Páramo
+1630;San Pantaleón del Páramo
+1678;Fuencaliente de Puerta
+1716;Hurones
+1891;Cañizar de Argaño
+1797;Palacios de Benaver
+1968;Villorejo
+2062;Llano de Bureba
+2128;Manciles
+2270;Montorio
+2849;Bentretea
+2722;Castellanos de Bureba
+2655;Cornudilla
+2447;Hermosilla
+2921;Oña
+2576;La Parte de Bureba
+2881;Penches
+2765;Pino de Bureba
+2810;Terminón
+3036;Padrones de Bureba
+3066;Pedrosa del Páramo
+3356;Lodoso
+3194;Marmellar de Abajo
+3258;Pedrosa de Río Úrbel
+3422;San Pedro Samuel
+3470;Piérnigas
+3615;Castil de Lences
+3577;Lences de Bureba
+3761;Poza de la Sal
+3901;Quintanaortuño
+4039;Quintanilla Vivar
+4132;Vivar del Cid
+4267;Quintanilla Cabe Rojas
+4229;Rojas
+4329;Rublacedo de Abajo
+4300;Rublacedo de Arriba
+4361;Hozabejas
+4395;Ojeda
+4383;Rucandio
+4441;Salas de Bureba
+4511;Buezo
+4493;Salinillas de Bureba
+4766;Ayoluengo
+4865;Lorilla
+4569;Moradillo del Castillo
+4617;San Andrés de Montearados
+4556;Santa Coloma del Rudrón
+4864;Sargentes de la Lora
+4702;Valdeajos de la Lora
+5013;Citores del Páramo
+5072;Olmillos de Sasamón
+5282;Sotragero
+5375;Susinos del Páramo
+5426;Tobar
+5527;Bañuelos del Rudrón
+5707;Covanera
+5785;San Felices del Rudrón
+5636;El Molino
+5650;Tablada del Rudrón
+5575;Tubilla del Agua
+5860;La Nuez de Arriba
+5931;Quintana del Pino
+5960;Úrbel del Castillo
+6867;Acedillo
+6476;Arenillas de Villadiego
+7046;Barrios de Villadiego
+6565;Barruelo de Villadiego
+6919;Boada de Villadiego
+6773;Brulles
+6630;Bustillo del Páramo
+6228;Castromorca
+6980;Coculina
+7205;Fuencivil
+6609;Hormazuela
+6686;Melgosa de Villadiego
+6160;Olmos de la Picaza
+7083;Quintanilla de la Presa
+6705;Tablada de Villadiego
+7257;San Miguel
+7328;Santa Cruz
+7284;Santiago
+6295;Villadiego
+6747;Villahernando
+6839;Villalbilla de Villadiego
+6447;Villalibado
+6196;Villanoño
+7155;Villanueva de Puerta
+6518;Villaute
+7392;Villayerno Morquillas
+7524;Villamorón
+7491;Villegas
+7823;Avellanosa del Páramo
+8044;Las Celadas
+7610;Mansilla de Burgos
+7871;Miñón de Santibáñez
+7710;La Nuez de Abajo
+7748;Las Rebolledas
+8042;Ros
+7936;Santibáñez Zarzaguda
+8090;Los Tremellos
+7664;Zúmel
+8170;Celada de la Torre
+8387;Melgosa
+8314;Rioseras
+8858;Cortiguera
+8728;Gredilla de Sedano
+8631;Moradillo de Sedano
+8572;Mozuelos de Sedano
+8486;Nidáguila
+8788;Nocedo
+8609;Quintanaloma
+8704;Sedano
+8534;Terradillos de Sedano
+8803;Valdelateja
+9921;La Cabañuela
+9642;Castrillo de Rucios
+9224;Celadilla-Sotobrín
+10024;Cernégula
+9595;Cobos Junto a la Molina
+9536;Gredilla la Polera
+9821;Hontomín
+9891;Lermilla
+9961;Masa
+9622;Mata
+9497;La Molina de Ubierna
+9413;Peñahorada
+8891;Quintanarrío
+9748;Quintanarruz
+9814;Quintanilla Sobresierra
+9674;Robredo-Sobresierra
+9450;San Martín de Ubierna
+9007;Sotopalacios
+9352;Ubierna
+9576;Villalbilla Sobresierra
+9062;Villanueva de Río Ubierna
+9260;Villaverde Peñahorada
+10210;Arroyal
+10260;Marmellar de Arriba
+10155;Villarmero

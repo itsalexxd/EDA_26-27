@@ -1,0 +1,629 @@
+-3.6799810;41.6725518;CS Aranda Norte
+-3.6878205;41.6664948;CS Aranda Rural
+-3.5572313;41.7691511;CL Baños de Valdearados
+-3.7303357;41.6096373;CL Campillo de Aranda
+-3.7520611;41.5823738;CL Torregalindo
+-3.7955819;41.5830349;CL Hontangas
+-3.7797036;41.6520142;CL Castrillo de la Vega
+-3.6407370;41.5912230;CL Fuentelcésped
+-3.5945074;41.5949300;CL Santa Cruz de la Salceda
+-3.7543012;41.5294744;CL Fuentenebro
+-3.7781156;41.5127877;CL Aldehorno
+-3.6901204;41.7716986;CL Gumiel de Izán
+-3.8021070;41.7560840;CL Gumiel de Mercado
+-3.8235525;41.7158778;CL Ventosilla
+-3.7044858;41.5101853;CL Honrubia de la Cuesta
+-3.6860500;41.6316500;CL Fuentespina
+-3.7453200;41.6823100;CL Villalba de Duero
+-3.7000345;41.5752956;CL Milagros
+-3.7104752;41.5513218;CL Pardilla
+-3.6522271;41.5487538;CL Montejo de la Vega de la Serrezuela
+-3.6544027;41.5223911;CL Villaverde de Montejo
+-3.6360300;41.5201100;CL Valdevacas de Montejo
+-3.7911388;41.5519672;CL Moradillo de Roa
+-3.8175131;41.5626304;CL La Sequera de Haza
+-3.8213274;41.5942870;CL Adrada de Haza
+-3.4775400;41.6886200;CL Peñaranda de Duero
+-3.5774730;41.6989117;CL Quemada
+-3.5224600;41.7447468;CL Hontoria de Valdearados
+-3.5231600;41.6835000;CL San Juan del Monte
+-3.6452156;41.6476334;CL Fresnillo de las Dueñas
+-3.5875969;41.8004991;CL Tubilla del Lago
+-3.6262131;41.8061176;CL Villalbilla de Gumiel
+-3.5730444;41.6399331;CL Vadocondes
+-3.4905923;41.6309843;CL La Vid
+-3.4579458;41.6225200;CL Zuzones
+-3.5535800;41.6970699;CL Zazuar
+-3.7701762;41.7325547;CL La Aguilera
+-3.7515690;41.7596020;CL Quintana del Pidio
+-3.6269385;41.7368355;CL Villanueva de Gumiel
+-3.4858183;41.8253478;CL Caleruega
+-3.4695937;41.8964516;CL Espinosa de Cervera
+-3.5287802;41.8327260;CL Valdeande
+-3.5592844;41.8598278;CL Santa María de Mercadillo
+-3.4494952;41.6851037;CL Casanova
+-3.5161405;41.6416834;CL Guma
+-3.6719380;41.4978860;CL Villalvilla de Montejo
+-3.6878205;41.6664948;CS Aranda Sur
+-3.1908150;42.4199531;CS Belorado
+-3.2001768;42.3237078;CL Pradoluengo
+-3.1378551;42.4907005;CL Cerezo de Río Tirón
+-3.1927163;42.3486024;CL Villagalijo
+-3.1400307;42.3177609;CL Fresneda
+-3.1368767;42.4275233;CL Villamayor del Río
+-3.1748281;42.4599174;CL Fresno de Río Tirón
+-3.2212883;42.4954101;CL Quintanaloranco
+-3.0807883;42.4538896;CL Ibrillos
+-3.0826699;42.4368200;CL Castildelgado
+-3.2212883;42.3038429;CL Santa Cruz del Valle Urbión
+-3.2554700;42.3050300;CL Valmala
+-3.0645879;42.4383870;CL Redecilla del Camino
+-3.0817278;42.4259465;CL Bascuñana
+-3.3093071;42.3873885;CL Villafranca Montes de Oca
+-3.2619900;42.4062800;CL Villambistia
+-3.2803691;42.4054103;CL Espinosa del Camino
+-3.2430102;42.4139014;CL Tosantos
+-3.3206352;42.4361674;CL Villanasur Río
+-3.3753108;42.4241772;CL Cerratón de Juarros
+-3.3127794;42.4296784;CL Villalomez
+-3.2423600;42.3781200;CL Puras de Villafranca
+-3.2146933;42.3959073;CL San Miguel de Pedroso
+-3.3448737;42.4603067;CL Cueva Cardiel
+-3.1155617;42.4667522;CL Redecilla del Campo
+-3.1102800;42.4160200;CL San Pedro del Monte
+-3.3303921;42.4447806;CL Villalbos
+-3.3362157;42.4524323;CL Villalmondar
+-3.1008348;42.4263533;CL Viloria de Rioja
+-3.3220697;42.5514410;CS Briviesca
+-3.3279820;42.5900842;CL Aguilar de Bureba
+-3.3008126;42.6305621;CL La Vid de Bureba
+-3.2647150;42.6594070;CL Busto de Bureba
+-3.3267700;42.6823720;CL Navas de Bureba
+-3.2978885;42.6686283;CL Quintanaélez
+-3.4671919;42.7343483;CL Cantabrana
+-3.4930813;42.7414925;CL Quintanaopio
+-3.5404748;42.7705252;CL Madrid de las Caderechas
+-3.2062153;42.6402707;CL Cubo de Bureba
+-3.2263780;42.6044930;CL Zuñeda
+-3.4910600;42.6308800;CL Lences de Bureba
+-3.4589858;42.6240736;CL Llano de Bureba
+-3.3908772;42.6455135;CL Los Barrios de Bureba
+-3.3580997;42.6484580;CL Barrio de Díaz Ruiz
+-3.4261850;42.6830620;CL Cornudilla
+-3.3855560;42.6777780;CL La Parte de Bureba
+-3.1999362;42.6746607;CL Miraveche
+-3.2379368;42.6793977;CL Cascajares de Bureba
+-3.1635337;42.6487879;CL Villanueva de Teba
+-3.1802629;42.6398869;CL Santa María Rivarredonda
+-3.4160037;42.7339981;CL Oña
+-3.5023934;42.6653351;CL Poza de la Sal
+-3.3464450;42.5026913;CL Prádanos de Bureba
+-3.2844724;42.4810208;CL Carrias
+-3.4277641;42.4804996;CL Quintanavides
+-3.1936580;42.5488624;CL Quintanilla San García
+-3.2049594;42.5877176;CL Vallarta de Bureba
+-3.4416314;42.5784233;CL Rojas
+-3.5022270;42.5532250;CL Rublacedo de Abajo
+-3.5101378;42.5331996;CL Rublacedo de Arriba
+-3.4744522;42.6923292;CL Salas de Bureba
+-3.5031881;42.7161738;CL Aguas Cándidas
+-3.5082423;42.7306614;CL Río-Quintanilla
+-3.5328888;42.7055001;CL Padrones de Bureba
+-3.5318200;42.7297700;CL Hozabejas
+-3.5808444;42.6233563;CL Abajas
+-3.3584147;42.4730947;CL Alcocero de Mola
+-3.5195180;42.5973150;CL Arconada
+-3.2809319;42.5006087;CL Bañuelos de Bureba
+-3.2662209;42.6272720;CL Berzosa de Bureba
+-3.2479915;42.6284003;CL Calzada de Bureba
+-3.4981345;42.5782459;CL Carcedo de Bureba
+-3.5467974;42.6415631;CL Castil de Lences
+-3.3845624;42.4830554;CL Castil de Peones
+-3.2348114;42.6343726;CL Fuentebureba
+-3.2640205;42.5909488;CL Grisaleña
+-3.4350824;42.6595685;CL Hermosilla
+-3.4962395;42.7676143;CL Herrera de Valdivielso
+-3.4132100;42.5902500;CL Piérnigas
+-3.4315371;42.7058275;CL Pino de Bureba
+-3.3664018;42.5866546;CL Quintanabureba
+-3.4520433;42.5637312;CL Quintana-Urria
+-3.3839322;42.5094245;CL Reinoso
+-3.5417393;42.7515880;CL Rucandio
+-3.4404597;42.4770103;CL Santa Olalla de Bureba
+-3.3417252;42.6617656;CL Solduengo
+-3.4507812;42.7214217;CL Terminon
+-3.3602767;42.6180981;CL Terrazos
+-3.3470778;42.6350298;CL Las Vesgas
+-3.3228687;42.6215670;CL Vileña
+-3.6920346;42.3530205;CS Cristóbal Acosta
+-3.7146880;42.3435940;CL Burgos - San Zadornil
+-3.6920578;42.3525724;CS Ignacio López Sáiz
+-3.6808140;42.3533740;CS Burgos Rural Norte
+-3.4204988;42.4261824;CL Villaescusa la Solana
+-3.4189220;42.4148763;CL Villaescusa la Sombría
+-3.7723991;42.3611447;CL Villalonquejar
+-3.6696126;42.4638835;CL Villaverde-Peñahorada
+-3.6398308;42.3961225;CL Villayerno Morquillas
+-3.4855025;42.3456289;CL Zalduendo
+-3.8140235;42.4490051;CL Zumel
+-3.7350645;42.3848030;CL Quintanadueñas
+-3.4580391;42.3227938;CL Arlanzón
+-3.7716400;42.5216960;CL Huérmeces
+-3.6376137;42.5711600;CL Hontomin
+-3.6977254;42.4932352;CL Ubierna
+-3.4694014;42.4575341;CL Monasterio de Rodilla
+-3.7766677;42.5853828;CL Montorio
+-3.2970378;42.2158180;CL Pineda de la Sierra
+-3.4792000;42.3694800;CL Ages
+-3.5318886;42.4097690;CL Quintanapalla
+-3.5081750;42.3779424;CL Atapuerca
+-3.4608794;42.3955120;CL Barrios de Colina
+-3.6894880;42.4144400;CL Quintanilla-Vivar
+-3.6810105;42.4338341;CL Sotopalacios
+-3.6804500;42.4226800;CL Vivar del Cid
+-3.6835590;42.4499480;CL Quintanaortuño
+-3.6380501;42.4545678;CL Rioseras
+-3.5893510;42.4436380;CL Riocerezo
+-3.5809529;42.4679072;CL Robredo-Temiño
+-3.7836718;42.4804060;CL Santibañez-Zarzaguda
+-3.6933872;42.3744592;CL Villatoro
+-3.7266670;42.4347220;CL Villanueva Río Ubierna
+-3.7133665;42.4103414;CL Sotragero
+-3.6148151;42.3659025;CL Villafría
+-3.5591286;42.3590405;CL Cardeñuela Riopico
+-3.5739934;42.3877521;CL Rubena
+-3.3946472;42.3077734;CL Villasur de Herreros
+-3.3986365;42.4153927;CL Arraya de Oca
+-3.7492222;42.4119384;CL Arroyal
+-3.8773029;42.4601264;CL Avellanosa del Páramo
+-3.6390390;42.4288259;CL Celada de la Torre
+-3.8291158;42.4839600;CL Las Celadas
+-3.7254214;42.4565694;CL Celadilla Sotobrin
+-3.6246299;42.6385217;CL Cernegula
+-3.4840146;42.4200598;CL Fresno de Rodilla
+-3.6138654;42.4061493;CL Hurones
+-3.7947220;42.4438890;CL Mansilla de Burgos
+-3.5569151;42.5329853;CL Melgosa
+-3.6271631;42.5124164;CL Molina de Ubierna
+-3.5325728;42.3917957;CL Olmos de Atapuerca
+-3.5839369;42.3599908;CL Orbaneja Riopico
+-3.6448988;42.4989906;CL Peñahorada
+-3.4350068;42.4294312;CL Piedrahita de Juarros
+-3.4197104;42.3999675;CL Quintanilla del Monte En Juarros
+-3.6746835;42.5188680;CL Gredilla la Polera
+-3.4439976;42.3934097;CL Hiniestra
+-3.7178074;42.6263764;CL Masa
+-3.7975000;42.4641670;CL Miñón
+-3.7736694;42.6367752;CL Nidaguila
+-3.8092498;42.4574989;CL La Nuez de Abajo
+-3.8079787;42.5995817;CL La Nuez de Arriba
+-3.7755748;42.3874452;CL Paramo del Arroyo
+-3.5917104;42.5661801;CL Quintanarruz
+-3.7133665;42.5721005;CL Quintanilla Sobresierra
+-3.5679837;42.3550798;CL Quintanilla-Riopico
+-3.7592600;42.4581800;CL Las Rebolledas
+-3.8092498;42.4844674;CL Ros
+-3.8090909;42.5406633;CL Ruyales del Páramo
+-3.4367359;42.3761914;CL San Juan de Ortega
+-3.8041654;42.5642342;CL San Pantaleon del Páramo
+-3.4383422;42.4435975;CL Santa María del Invierno
+-3.4621418;42.3573952;CL Santovenia de Oca
+-3.5455328;42.4751360;CL Temiño
+-3.8213274;42.6510821;CL Terradillos de Sedano
+-3.5714629;42.5055857;CL Tobes
+-3.8330899;42.5170590;CL Los Tremellos
+-3.4015816;42.2700400;CL Urrez
+-3.6805781;42.3533010;CS Burgos Rural Sur
+-3.9069056;42.3071831;CL Villagutierrez
+-3.4414737;42.1685960;CL Villoruebo
+-3.9339767;42.2905802;CL Vilviestre de Muño
+-3.7882352;42.2679886;CL Villamiel de Muño
+-3.9329425;42.3812424;CL Villanueva de Argaño
+-3.7851032;42.2420495;CL Villanueva Matamala
+-3.7339884;42.2686472;CL Villariezo
+-3.8232347;42.3735897;CL Villarmentero
+-3.8143348;42.1603787;CL Villaverde del Monte
+-3.8926385;42.2594423;CL Villavieja de Muño
+-3.9244206;42.4315468;CL Villorejo
+-3.7566698;42.2648957;CL Arcos
+-3.8218714;42.3108499;CL Buniel
+-3.8453559;42.2835519;CL Cavia
+-3.6654928;42.3003787;CL Cardeñadijo
+-3.5844330;42.3140034;CL Castrillo del Val
+-3.9004951;42.2756184;CL Estépar
+-3.9336581;42.2632180;CL Celada del Camino
+-3.8826650;42.3008360;CL Medinilla de la Dehesa
+-3.5354950;42.3312400;CL Ibeas de Juarros
+-3.9298355;42.3617029;CL Isar
+-3.8219632;42.4098485;CL Pedrosa de Río Úrbel
+-3.7952688;42.4058242;CL Marmellar de Abajo
+-3.8773029;42.4441856;CL San Pedro Samuel
+-3.8458092;42.3719153;CL Las Quintanillas
+-3.5388943;42.2120181;CL Revilla del Campo
+-3.6110163;42.1678678;CL Cubillo del Campo
+-3.6971922;42.2599906;CL Sarracín
+-3.8159239;42.3489577;CL Tardajos
+-3.8343617;42.3403570;CL Rabé de las Calzadas
+-3.7393000;42.3018800;CL Villagonzalo-Pedernales
+-3.6997290;42.1995625;CL Cogollos
+-3.6756344;42.1448544;CL Madrigal del Monte
+-3.4739740;42.2514290;CL Santa Cruz de Juarros
+-3.4593014;42.2119757;CL Palazuelos de la Sierra
+-3.4757149;42.2742846;CL San Adrián de Juarros
+-3.4178600;42.1912100;CL Villamiel de la Sierra
+-3.8750755;42.2430530;CL Quintanilla-Somuño
+-3.7797036;42.3458542;CL Villalbilla de Burgos
+-3.7746221;42.1798739;CL Villangómez
+-3.7911388;42.2766206;CL Albillos
+-3.8470813;42.2230605;CL Arenillas de Muño
+-3.8976728;42.2487518;CL Arroyo de Muño
+-3.9448091;42.4044688;CL Cañizar de Argaño
+-3.6220969;42.2866853;CL Carcedo de Burgos
+-3.6198806;42.3301055;CL Cardeñajimeno
+-3.8194202;42.2723006;CL Cayuela
+-3.6677111;42.2464703;CL Cojobar
+-3.5366817;42.2764249;CL Cueva de Juarros
+-3.5335210;42.2919026;CL Cuzcurrita de Juarros
+-3.8381772;42.3107285;CL Frandovínez
+-3.6426815;42.1890598;CL Hontoria de la Cantera
+-3.9209171;42.3226879;CL Hormaza
+-3.9264909;42.3386283;CL Hornillos del Camino
+-3.8213274;42.4295021;CL Lodoso
+-3.4694598;42.1775558;CL Mazueco
+-3.8458092;42.2391112;CL Mazuelo de Muño
+-3.6282714;42.2635712;CL Modúbar de la Cuesta
+-3.6607396;42.2602340;CL Modúbar de la Emparedada
+-3.5856985;42.2524431;CL Modúbar de San Cibrian
+-3.5151927;42.3066106;CL Mozoncillo de Juarros
+-3.8957628;42.3932545;CL Palacios de Benaver
+-3.8124279;42.2263701;CL Pedrosa de Muño
+-3.5341531;42.1742629;CL Quintanalara
+-3.5983558;42.2274193;CL Quintanilla (Los Ausines)
+-3.4141922;42.1661718;CL Quintanilla-Cabrera
+-3.8079787;42.3292514;CL Quintanilla de las Carretas
+-3.7545828;42.3160129;CL Renuncio
+-3.6528186;42.2306285;CL Revillarruz
+-3.6848173;42.2576929;CL Saldaña de Burgos
+-3.4899233;42.2938495;CL Salguero de Juarros
+-3.7933626;42.3364947;CL San Mamés de Burgos
+-3.5966350;42.3313539;CL San Medel
+-3.5423715;42.3199186;CL San Millan de Juarros
+-3.8327720;42.3837098;CL Santa María Tajadura
+-3.5170884;42.1661544;CL Torrelara
+-3.7086451;42.1720112;CL Valdorros
+-3.7581107;42.3268980;CL Villacienzo
+-3.8013056;42.1765295;CL Villafuertes
+-2.7514823;42.7330636;CS Condado de Treviño
+-2.6345958;42.6898724;CL Albaina
+-2.8309300;42.7649700;CL La Puebla de Arganzón
+-2.7910527;42.7427068;CL Añastro
+-2.7720693;42.7373701;CL Cucho
+-3.5492971;43.0754895;CS Espinosa de los Monteros
+-3.3884900;43.0420200;CL Castrobarto
+-3.6261840;43.0282352;CL Cornejo de Sotoscueva
+-3.4863314;43.0488008;CL El Crucero
+-3.5896830;43.1173920;CL Las Machorras
+-3.5651186;43.0974216;CL Barcenas
+-3.6623341;43.0498666;CL Quisicedo Sotoscueva
+-3.6959238;43.0443229;CL Entrambosrios
+-3.6249465;43.0574983;CL Quintanilla del Rebollar
+-3.4740356;43.0656161;CL Villasante
+-3.6673994;42.3531985;CS Gamonal Antigua
+-3.6762665;42.3542027;CS Gamonal - Las Torres
+-3.6626418;42.3507127;CS García Lorca
+-3.3488013;41.8395881;CS Huerta de Rey
+-3.4290138;41.7376223;CL Arandilla
+-3.3671530;41.7171600;CL Brazacorta
+-3.3873985;41.8593029;CL Arauzo de Miel
+-3.3914263;41.7648793;CL Coruña del Conde
+-3.4227062;41.7986886;CL Arauzo de Torre
+-3.3382620;41.7875062;CL Quintanarraya
+-3.3293906;41.7677249;CL Hinojar del Rey
+-3.3674620;41.7884440;CL Peñalba de Castro
+-3.3977991;41.8909266;CL Doña Santos
+-3.4118384;41.8196457;CL Arauzo de Salce
+-3.7541090;42.0240561;CS Lerma
+-3.8238500;41.9832500;CL Avellanosa de Muñó
+-3.8470813;41.9749356;CL Iglesiarrubia
+-3.7879621;41.8313151;CL Cabañes de Esgueva
+-3.7302221;41.8611487;CL Bahabón de Esgueva
+-3.7974928;41.8849431;CL Cilleruelo de Abajo
+-3.5301396;41.9044207;CL Ciruelos de Cervera
+-3.5170884;41.9789982;CL Quintanilla del Coco
+-3.4800600;41.9752400;CL Santibáñez del Val
+-3.5193001;42.0602355;CL Covarrubias
+-3.5088121;42.0301345;CL Retuerta
+-3.5734441;42.0955272;CL Mecerreyes
+-3.5685138;42.1301042;CL Cuevas de San Clemente
+-3.6956761;41.9088882;CL Pineda Trasmonte
+-3.6605460;41.9047737;CL Cilleruelo de Arriba
+-3.6194576;41.8727424;CL Pinilla Trasmonte
+-3.7682709;41.9886784;CL Quintanilla de la Mata
+-3.7390490;41.9426130;CL Fontioso
+-3.9578748;41.9959180;CL Royuela de Río Franco
+-3.9374811;42.0435931;CL Torrepadre
+-3.6595601;41.9720560;CL Solarana
+-3.9126371;41.9163981;CL Villafruela
+-3.9126371;42.0771757;CL Villahoz
+-3.8652400;42.0458200;CL Tordómar
+-3.7424900;42.0485900;CL Villalmanzo
+-3.7026860;42.0394540;CL Santa Inés
+-3.6931700;42.0949900;CL Torrecilla del Monte
+-3.7675891;42.1056277;CL Villamayor de los Montes
+-3.7249400;42.1246000;CL Madrigalejo del Monte
+-3.8248291;42.1091651;CL Zael
+-3.6533031;42.0339662;CL Quintanilla del Agua
+-3.5829500;42.0422100;CL Puentedura
+-3.6238349;42.0208585;CL Tordueles
+-3.5025564;41.9162910;CL Briongos de Cervera
+-3.5966340;41.9831990;CL Cebrecos
+-3.7478080;42.1561710;CL Montuenga
+-3.6340112;41.9691570;CL Nebreda
+-3.7044858;41.8312397;CL Oquillas
+-3.8505970;42.0097850;CL Paules del Agua
+-3.8865320;42.0020604;CL Pinedillo
+-3.7025830;42.0010159;CL Revilla Cabriada
+-3.8031760;42.0521890;CL Santa Cecilia
+-3.7593300;41.8333299;CL Santibáñez de Esgueva
+-3.5360495;41.9524232;CL Tejada
+-3.8550950;41.9842000;CL Torrecitores
+-3.6759514;42.0309279;CL Bascones del Agua
+-3.6680280;41.9795453;CL Castrillo de Solarana
+-4.0242100;42.0751781;CL Retortillo
+-3.5361257;42.0002451;CL Castroceniza
+-3.6844575;42.3504385;CS Los Comuneros
+-3.7117570;42.3401491;CS Los Cubos
+-3.4878397;42.9322774;CS Medina de Pomar
+-3.4185217;42.8433522;CL Nofuentes
+-3.3093071;42.8471646;CL Extramiana
+-3.3901908;42.8035117;CL Trespaderne
+-4.2478389;42.4038866;CS Melgar de Fernamental
+-4.0615299;42.3574375;CL Castrillo de Murcia
+-4.0344230;42.3285913;CL Castellanos de Castro
+-4.1424199;42.2884823;CL Castrojeriz
+-4.1727180;42.3076284;CL Castrillo Mota de Judíos
+-4.1379422;42.3310541;CL Villasilos
+-4.1555353;42.3374842;CL Villaveta
+-4.1008562;42.2832089;CL Villaquirán de la Puebla
+-4.1614174;42.2743842;CL Hinestrosa
+-4.1094859;42.2401427;CL Vallunquera
+-4.1993838;42.2488931;CL Pedrosa del Príncipe
+-4.1101095;42.3728776;CL Villasandino
+-4.1763348;42.4082489;CL Padilla de Abajo
+-4.2683062;42.5363653;CL Zarzosa de Río Pisuerga
+-4.2524121;42.5149644;CL Castrillo de Riopisuerga
+-4.2352579;42.3569904;CL Arenillas de Riopisuerga
+-4.1929803;42.4383074;CL Padilla de Arriba
+-4.2852493;42.5521515;CL Hinojal de Pisuerga
+-4.0445043;42.3127303;CL Hontanas
+-4.2580122;42.4368343;CL San Llorente de la Vega
+-4.2093108;42.4833674;CL Santa María Ananuñez
+-4.1881782;42.1985136;CL Valbonilla
+-4.2407052;42.4754735;CL Valtierra de Ríopisuerga
+-2.9416044;42.6840591;CS Miranda Este
+-3.1116400;42.6331500;CL Pancorbo
+-3.0770305;42.6034500;CL Altable
+-3.1210800;42.5718900;CL Valluércanes
+-3.0594980;42.7151216;CL Sta. Gadea del Cid
+-3.0385840;42.6957500;CL Ayuelas
+-3.0852000;42.7260300;CL Bozoó
+-3.0257030;42.7324820;CL Guinicio
+-3.0746166;42.7457503;CL Villanueva Soportilla
+-3.0616892;42.6561307;CL Ameyugo
+-3.0181967;42.6490319;CL Bugedo
+-2.9457374;42.6834520;CS Miranda Oeste
+-3.9862168;42.2045017;CS Pampliega
+-3.9900410;42.2979550;CL Iglesias
+-3.9840500;42.2476652;CL Villaldemiro
+-4.0652300;42.2151400;CL Los Balbases
+-3.9412138;42.1199844;CL Mahamud
+-3.9339394;42.1588783;CL Ciadoncha
+-4.0778505;42.0769929;CL Peral de Arlanza
+-3.9019660;42.1867540;CL Presencio
+-3.9714476;42.1339727;CL Santa María del Campo
+-4.0778505;42.1201916;CL Valles de Palenzuela
+-4.0957429;42.1442248;CL Villodrigo
+-4.1342380;42.1472200;CL Revilla Vallejera
+-4.0512595;42.1607026;CL Villaverde-Mogina
+-4.0127229;42.1681124;CL Belbimbre
+-3.9996435;42.2186273;CL Villaquirán de los Infantes
+-4.0165516;42.1975553;CL Villazopeque
+-3.9186700;42.2071600;CL Mazuela
+-3.9400298;42.2026675;CL Olmillos de Muñó
+-3.9881961;42.1959869;CL Palazuelos de Muñó
+-3.8643440;42.1583340;CL Revenga
+-3.9909910;42.2727190;CL Tamarón
+-4.1459384;42.1606117;CL Villamedianilla
+-4.1005366;42.1659383;CL Vizmalo
+-3.0418546;41.9790395;CS Quintanar de la Sierra
+-3.0408879;41.9367132;CL Canicosa de la Sierra
+-2.9962471;42.0602429;CL Neila
+-3.1284123;41.9645331;CL Palacios de la Sierra
+-2.9860667;41.9584361;CL Regumiel de la Sierra
+-3.0782831;41.9510244;CL Vilviestre del Pinar
+-3.9327775;41.6961308;CS Roa de Duero
+-3.9323839;41.7538464;CL Anguix
+-3.9583900;41.7473699;CL Quintanamanvirgo
+-3.8698047;41.6291410;CL Fuentecén
+-3.8499436;41.6045476;CL Fuentemolinos
+-3.9968630;41.7567410;CL Guzman
+-3.9744506;41.7300362;CL Boada
+-3.8628860;41.6590272;CL Hoyales de Roa
+-3.8752624;41.6893585;CL Berlangas de Roa
+-3.8744391;41.7415221;CL La Horra
+-3.9836972;41.6672302;CL Mambrilla de Castrejón
+-3.9913507;41.6420751;CL San Martín de Rubiales
+-3.9637382;41.6120657;CL Nava de Roa
+-3.9355696;41.7841654;CL Olmedillo de Roa
+-3.9719002;41.8145694;CL Villovela de Esgueva
+-3.8256500;41.7777699;CL Sotillo de la Ribera
+-3.9098669;41.8276580;CL Torresandino
+-4.0222953;41.8159216;CL Tórtoles de Esgueva
+-3.9298355;41.6021620;CL Valdezate
+-3.9002400;41.6223300;CL Fuentelisendo
+-4.0178280;41.7285309;CL Villaescusa de Roa
+-3.9871105;41.7116775;CL Pedrosa de Duero
+-3.9932300;41.6880800;CL Valcabado de Roa
+-3.8814399;41.8151730;CL Villatuelda
+-3.9400298;41.6677989;CL La Cueva de Roa
+-3.8356335;41.8229126;CL Pinillos de Esgueva
+-3.8294520;41.6214200;CL Haza
+-3.8432651;41.8189355;CL Terradillos de Esgueva
+-3.2868145;42.0179556;CS Salas de los Infantes
+-3.1771762;42.1493829;CL Barbadillo de Herreros
+-3.2288265;42.1187749;CL Barbadillo del Pez
+-3.1970717;42.1520967;CL Riocavado de la Sierra
+-3.1133539;42.1495251;CL Monterrubio de la Demanda
+-3.3574738;42.0406889;CL Barbadillo del Mercado
+-3.4079000;42.0179900;CL Contreras
+-3.2351093;41.9875788;CL Castrillo de la Reina
+-3.1999362;41.9538995;CL Moncalvillo
+-3.4273900;42.0704000;CL Hortigüela
+-3.4810821;42.1246876;CL Quintanilla de las Viñas
+-3.4276590;42.1192375;CL Campolara
+-3.1472242;42.1136283;CL Huerta de Abajo
+-3.1033412;42.0950612;CL Tolbaños de Arriba
+-3.0816122;42.1155486;CL Huerta de Arriba
+-3.3051660;41.9189060;CL Pinilla de Barruecos
+-3.2640205;41.8988254;CL La Gallega
+-3.2417071;41.9344622;CL Cabezón de la Sierra
+-3.3619454;41.9264912;CL Mamolar
+-3.3457950;42.1365290;CL San Millán de Lara
+-3.3117690;42.1157081;CL Jaramillo de la Fuente
+-3.3240971;42.1496915;CL Iglesiapinta
+-3.4189220;41.9624616;CL Santo Domingo de Silos
+-3.3533757;41.9681037;CL Carazo
+-3.2866585;41.9848809;CL Hacinas
+-3.3521701;41.9973570;CL Ahedo
+-3.4518876;41.9474823;CL Hinojar de Cervera
+-3.4526744;41.9332829;CL Hortezuelos
+-3.4627731;42.0937592;CL Mambrillas de Lara
+-3.4047340;41.9390459;CL Peñacoba
+-3.3272445;42.0681120;CL Pinilla de los Moros
+-3.3310426;42.0127709;CL La Revilla
+-3.1384444;42.0990496;CL Tolbaños de Abajo
+-3.1830406;42.1183477;CL Vallejimeno
+-3.2668497;42.1019591;CL Vizcaínos
+-3.1996223;42.1149611;CL Quintanilla de Urrilla
+-3.7020592;42.3333012;CS San Agustín
+-3.6929306;42.3404093;CS Santa Clara
+-3.7482680;42.7128420;CS Sedano
+-3.6330963;42.8077823;CL Dobro
+-3.8725299;42.7698581;CL Sargentes de Lora
+-3.8051187;42.7099190;CL Tubilla del Agua
+-3.8773029;42.6876711;CL Santa Coloma del Rudron
+-3.8435831;42.7254128;CL Tablada de Rudron
+-3.7771628;42.8120218;CL Escalada
+-3.7937280;42.8349410;CL Orbaneja del Castillo
+-3.7704937;42.8009749;CL Quintanilla-Escalada
+-3.7546186;42.8495880;CL Gallejones
+-3.6841930;42.8384822;CL Ahedo de Butron
+-3.8661110;42.7480560;CL Ayoluengo
+-3.5806365;42.7427591;CL Escobados de Abajo
+-3.6172478;42.7688576;CL Pesadas de Burgos
+-3.7209798;42.8013729;CL Pesquera de Ebro
+-3.6778532;42.8082443;CL Porquera de Butron
+-3.7217912;42.8359502;CL Quintanilla-Colina
+-3.7166324;42.8517173;CL Tubilleja
+-3.9097610;42.7413650;CL Valdeajos
+-3.7685885;42.7742323;CL Valdelateja
+-3.8548736;42.6897998;CL Bañuelos del Rudron
+-3.5920259;42.7510700;CL Escobados de Arriba
+-3.7036260;42.8624020;CL Tudanca
+-3.2444004;42.9897208;CS Valle de Losa (Quincoces de Yuso)
+-3.3159148;43.0004388;CL Oteo
+-3.0879432;42.9353782;CL Villalba de Losa
+-3.0594980;42.9185764;CL Berberana
+-3.2672612;42.7922727;CS Valle de Tobalina (Quintana Martín Galindez)
+-3.2951900;42.7620099;CL Frías
+-3.2187758;42.7778621;CL Barcina del Barco
+-3.3315244;42.8482169;CL Pedrosa de Tobalina
+-3.1785935;42.7716664;CL San Martin de Don
+-3.3260034;42.7144093;CL Barcina de los Montes
+-3.1789073;42.7195072;CL Cubilla
+-3.2321298;42.7043721;CL La Molina del Portillo del Busto
+-3.2975700;42.7265700;CL Ranera
+-3.2539800;42.7322500;CL Valderrama
+-3.7826763;42.9673679;CS Valle de Valdebezana - Soncillo
+-3.9446950;42.9942350;CL Arija
+-3.8476742;42.9076863;CL Barrio de Bricia
+-3.8496256;42.9737572;CL Cilleruelo de Bezana
+-3.7390020;43.0068280;CL Pedrosa de Valdeporres
+-3.6857781;42.9754968;CL Puentedey
+-3.9527228;42.9553762;CL Santa Gadea de Alfoz
+-3.9089752;42.9421521;CL Higon
+-3.8798487;42.8934689;CL Lomas de Villamediana
+-3.9014931;42.9370926;CL Montejo de Bricia
+-3.8673702;42.9076477;CL Rucandio Valdebezana
+-4.0102274;42.5142069;CS Villadiego
+-4.0834440;42.6682250;CL Humada
+-4.1098056;42.6786662;CL Fuenteodra
+-4.1638541;42.6422226;CL Amaya
+-4.1490622;42.6280979;CL Peones
+-3.8771283;42.6342994;CL La Piedra
+-3.8465764;42.6174448;CL Úrbel del Castillo
+-4.0428888;42.4170007;CL Sasamón
+-4.1185200;42.4321300;CL Grijalba
+-4.0727395;42.4377290;CL Villasidro
+-4.1767312;42.5785188;CL Sotresgudo
+-4.2651800;42.5999399;CL Sotovellanos
+-4.2259667;42.5843456;CL Cañizar de Amaya
+-4.2085300;42.5406590;CL Quintanilla de Riofresno
+-4.1059699;42.4782257;CL Villahizan de Treviño
+-4.1142348;42.5081388;CL Villanueva de Odra
+-4.1750546;42.5259513;CL Guadilla de Villamar
+-4.1200354;42.4593379;CL Villamayor de Treviño
+-4.1072485;42.4622475;CL Sordillos
+-4.1009540;42.5920010;CL Villavedon
+-4.1059699;42.5590390;CL Sandoval de la Reina
+-4.0756144;42.5194233;CL Tapia
+-4.0593656;42.5638667;CL Villusto
+-4.0270822;42.5866031;CL Barrios de Villadiego
+-4.0171890;42.4675230;CL Villegas
+-3.9735417;42.4418013;CL Pedrosa del Páramo
+-3.9875238;42.4986334;CL Castromorca
+-3.9785954;42.4811772;CL Olmos de la Picaza
+-3.9388300;42.4837638;CL Tobar
+-4.0050661;42.3627898;CL Yudego
+-4.0356998;42.3960957;CL Olmillos de Sasamon
+-3.9829740;42.3945570;CL Citores del Paramo
+-4.0270822;42.3678538;CL Villandiego
+-3.9842439;42.5309377;CL Arenillas de Villadiego
+-4.2032263;42.5567430;CL Barrio de San Felices
+-4.0221786;42.5479736;CL Barruelo de Villadiego
+-3.9282428;42.5985872;CL Fuencivil
+-3.9129555;42.6479957;CL Fuente-Urbel
+-4.0103622;42.6521306;CL Fuentecaliente de Puerta
+-3.9454464;42.4565800;CL Manciles
+-4.0712950;42.5927624;CL Palazuelos de Villadiego
+-3.9279780;42.5258750;CL Parte La
+-4.1338749;42.6826289;CL Rebolledo Traspeña
+-4.0666708;42.6017144;CL Rioparaiso
+-4.2035465;42.6175625;CL Salazar de Amaya
+-4.0353806;42.6553610;CL San Martín de Humada
+-3.8830311;42.6465685;CL Santa Cruz del Tozo
+-3.9244206;42.5204040;CL Solano
+-3.9260131;42.4710371;CL Susinos del Páramo
+-3.9343070;42.6143900;CL Los Valcarceres
+-3.9693798;42.5594288;CL Villahernando
+-4.1282976;42.6649334;CL Villamartin de Villadiego
+-3.9639307;42.5930809;CL Villanueva de Puerta
+-3.9057912;42.5257841;CL Borcos
+-4.0500655;42.6304121;CL Ordejon de Arriba
+-3.9242606;42.5869780;CL Quintanilla de la Presa
+-3.2827556;43.0991348;CS Valle de Mena (Villasana de Mena)
+-3.1883221;43.1155971;CL Artieta de Mena
+-3.2701974;43.1539332;CL Nava de Mena
+-3.2070002;43.1663699;CL Bortedo
+-3.3004981;43.0963753;CL Villanueva de Mena
+-3.3344843;43.0772174;CL Sopeñano
+-3.3171830;43.0854620;CL Villasuso de Mena
+-3.2282630;43.1655580;CL El Berrón
+-3.5679703;42.9448638;CS Villarcayo
+-3.5262520;42.8297472;CL Arroyo de Valdivielso
+-3.5980394;42.8418242;CL Quintana de Valdivielso
+-3.6906770;42.8989490;CL Manzanedo
+-3.5628307;42.9908897;CL Torme
+-3.6663145;42.3636886;CS Dr. José Luis Santamaria García (Casa La Vega)
+-3.7188784;42.3386417;CS Las Huelgas
+-2.9906822;42.7096094;CL Suzana

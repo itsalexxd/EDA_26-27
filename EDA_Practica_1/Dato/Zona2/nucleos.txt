@@ -1,0 +1,38 @@
+57;Carcedo de Bureba
+35;Quintanaurria
+88;Caborredondo
+119;Espinosilla de San Bartolomé
+199;Huérmeces
+307;Quintanilla Pedro Abarca
+236;Ruyales del Páramo
+286;San Pantaleón del Páramo
+426;Montorio
+588;Rublacedo de Abajo
+559;Rublacedo de Arriba
+642;La Nuez de Arriba
+787;Acedillo
+737;Bustillo del Páramo
+845;Coculina
+718;Hormazuela
+1081;Las Celadas
+1079;Ros
+973;Santibáñez Zarzaguda
+1127;Los Tremellos
+1362;Melgosa
+1210;Temiño
+1296;Tobes y Rahedo
+1773;Castrillo de Rucios
+1726;Cobos Junto a la Molina
+1667;Gredilla la Polera
+1952;Hontomín
+2022;Lermilla
+1753;Mata
+1628;La Molina de Ubierna
+1544;Peñahorada
+1388;Quintanarrío
+1879;Quintanarruz
+1945;Quintanilla Sobresierra
+1805;Robredo-Sobresierra
+1581;San Martín de Ubierna
+1483;Ubierna
+1707;Villalbilla Sobresierra

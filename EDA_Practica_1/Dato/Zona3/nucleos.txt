@@ -1,0 +1,89 @@
+75;Abajas
+54;Bárcena de Bureba
+145;Aguas Cándidas
+203;Quintanaopio
+180;Río Quintanilla
+276;Escóbados de Abajo
+308;Escóbados de Arriba
+233;Villalta
+376;La Piedra
+439;Cantabrana
+565;Arconada
+557;Valdearnedo
+537;Carcedo de Bureba
+515;Quintanaurria
+637;Ahedo de Bureba
+608;Caborredondo
+629;Galbarros
+644;San Pedro de la Hoz
+661;Espinosilla de San Bartolomé
+741;Huérmeces
+849;Quintanilla Pedro Abarca
+778;Ruyales del Páramo
+828;San Pantaleón del Páramo
+914;Llano de Bureba
+1056;Montorio
+1504;Bentretea
+1378;Castellanos de Bureba
+1311;Cornudilla
+1210;Hermosilla
+1421;Pino de Bureba
+1466;Terminón
+1629;Padrones de Bureba
+1780;Castil de Lences
+1742;Lences de Bureba
+1926;Poza de la Sal
+2061;Quintanilla Cabe Rojas
+2023;Rojas
+2142;Rublacedo de Abajo
+2113;Rublacedo de Arriba
+2174;Hozabejas
+2208;Ojeda
+2196;Rucandio
+2254;Salas de Bureba
+2313;Santa Coloma del Rudrón
+2403;Bañuelos del Rudrón
+2583;Covanera
+2661;San Felices del Rudrón
+2512;El Molino
+2526;Tablada del Rudrón
+2451;Tubilla del Agua
+2728;La Nuez de Arriba
+2799;Quintana del Pino
+2828;Úrbel del Castillo
+2930;Acedillo
+2883;Bustillo del Páramo
+3150;Las Celadas
+3148;Ros
+3042;Santibáñez Zarzaguda
+3196;Los Tremellos
+3500;Melgosa
+3292;Robredo Temiño
+3348;Temiño
+3434;Tobes y Rahedo
+3840;Gredilla de Sedano
+3743;Moradillo de Sedano
+3684;Mozuelos de Sedano
+3598;Nidáguila
+3897;Nocedo
+3721;Quintanaloma
+3816;Sedano
+3646;Terradillos de Sedano
+4627;La Cabañuela
+4348;Castrillo de Rucios
+4730;Cernégula
+4301;Cobos Junto a la Molina
+4242;Gredilla la Polera
+4527;Hontomín
+4597;Lermilla
+4667;Masa
+4328;Mata
+4203;La Molina de Ubierna
+4119;Peñahorada
+3915;Quintanarrío
+4454;Quintanarruz
+4520;Quintanilla Sobresierra
+4380;Robredo-Sobresierra
+4156;San Martín de Ubierna
+4058;Ubierna
+4282;Villalbilla Sobresierra

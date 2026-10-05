@@ -1,0 +1,1274 @@
+18141;Abajas
+18120;Bárcena de Bureba
+18274;Adrada de Haza
+18328;Aguas Cándidas
+18390;Quintanaopio
+18365;Río Quintanilla
+18463;Aguilar de Bureba
+18523;Albillos
+18584;Alcocero de Mola
+18828;Barrio de Bricia
+18882;Bricia
+18775;Campino de Bricia
+11078;Cilleruelo de Bricia
+18675;Linares de Bricia
+18738;Lomas de Villamediana
+18914;Montejo de Bricia
+18633;Presillas
+18643;Valderías
+18704;Villamediana de Lomas
+18891;Villanueva-Carrales
+18969;Higón
+19091;Quintanilla de Santa Gadea
+19047;Santa Gadea de Alfoz
+19130;Altable
+19467;Ahedo del Butrón
+19420;Dobro
+19234;Escóbados de Abajo
+19266;Escóbados de Arriba
+133645;Huidobro
+19340;Pesadas de Burgos
+19432;Porquera del Butrón
+19459;Quintanilla Colina
+19496;Tubilleja de Ebro
+19509;Tudanca de Ebro
+19311;Villaescusa del Butrón
+19189;Villalta
+19555;Ameyugo
+19667;Anguix
+21371;La Aguilera
+20604;Aranda de Duero
+21198;Sinovas
+20838;La Calabaza
+21246;Monte Costaján
+21544;Arandilla
+21514;Coto Valverde
+21711;Araúzo de Miel
+21826;Doña Santos
+21881;Arauzo de Salce
+21955;Arauzo de Torre
+22195;Arcos de la Llana
+22062;Villanueva Matamala
+22342;Arenillas de Riopisuerga
+22545;Arija
+22922;Agés
+22671;Arlanzón
+22720;Galarde
+22853;Santovenia de Oca
+22766;Villamórico
+22752;Zalduendo
+22958;Arraya de Oca
+23037;Atapuerca
+23102;Olmos de Atapuerca
+23172;Cubillo del César
+23237;Quintanilla
+23204;San Juan
+23261;Sopeña
+23370;Avellanosa de Muñó
+23529;Paúles del Agua
+23475;Pinedillo
+23435;Torrecitores del Enebral
+23625;Bahabón de Esgueva
+23894;Los Balbases
+24113;Baños de Valdearados
+24265;Bañuelos de Bureba
+24422;Barbadillo de Herreros
+24514;Barbadillo del Mercado
+24736;Barbadillo del Pez
+24777;Barrio de Muñó
+25027;Barrio de Díaz Ruiz
+24977;Los Barrios de Bureba
+25069;Solduengo de Bureba
+24838;Terrazos
+24882;Las Vesgas
+25179;Barrios de Colina
+25162;Hiniestra
+25142;San Juan de Ortega
+25758;Arcellares del Tozo
+25739;Barrio Panizares
+25637;Basconcillos del Tozo
+25359;Fuente Urbel
+25683;Hoyos del Tozo
+25282;La Piedra
+25579;Prádanos del Tozo
+25455;La Rad
+25507;San Mamés de Abar
+25334;Santa Cruz del Tozo
+25393;Talamillo del Tozo
+25533;Trashaedo
+25807;Bascuñana
+25794;San Pedro del Monte
+25853;Belbimbre
+25938;Avellanosa de Rioja
+26083;Belorado
+25931;Eterna
+26250;Loranquillo
+25950;Puras de Villafranca
+26291;Quintanaloranco
+25981;San Miguel de Pedroso
+26232;Castil de Carrias
+26464;Berberana
+26364;Valpuesta
+26569;Berlangas de Roa
+26645;Berzosa de Bureba
+26685;Bozoó
+26694;Portilla
+26712;Villanueva Soportilla
+26781;Brazacorta
+27163;Briviesca
+27345;Cameno
+27383;Quintanillabón
+26910;Revillagodos
+26936;Valdazo
+27452;Bugedo
+27590;Buniel
+29522;Burgos
+29459;Castañares
+28434;Cortes
+32052;Cótar
+31434;Villafría
+31933;Villagonzalo-Arenas
+31105;Villalonquéjar
+31840;Villatoro
+29497;Ventilla - Villayuda
+31587;Villímar
+32216;Busto de Bureba
+32362;Cabañes de Esgueva
+32494;Cabezón de la Sierra
+32606;Cavia
+32767;Caleruega
+32917;Campillo de Aranda
+33003;Campolara
+33187;Canicosa de la Sierra
+33265;Cantabrana
+33364;Carazo
+33529;Arconada
+33521;Valdearnedo
+33501;Carcedo de Bureba
+33479;Quintanaurria
+33702;Carcedo de Burgos
+33576;Modúbar de la Cuesta
+33848;Cardeñadijo
+34191;Urbanización Fuentes Blancas
+34040;Cardeñajimeno
+34128;San Medel
+34256;Cardeñuela Riopico
+34278;Villalval
+34290;Carrias
+34326;Cascajares de Bureba
+34415;Cascajares de la Sierra
+34493;Castellanos de Castro
+34536;Castildelgado
+34611;Castil de Peones
+34758;Castrillo de la Reina
+35104;Castrillo de la Vega
+35370;Castrillo del Val
+35309;Base Militar Cid Campeador de Castrillo del Val
+35288;Cerca de Santa Eugenia
+35496;Urbanización los Tomillares
+33739;San Pedro de Cardeña
+35580;Castrillo de Riopisuerga
+35637;Hinojal de Riopisuerga
+35718;Castrillo Mota de Judíos
+36124;Castrojeriz
+35995;Hinestrosa
+35835;Valbonilla
+35896;Vallunquera
+36328;Villasilos
+36394;Villaveta
+36522;Cayuela
+36464;Villamiel de Muñó
+36580;Cebrecos
+36667;Celada del Camino
+36901;Cerezo de Río Tirón
+37030;Cerratón de Juarros
+37042;San Otero
+36999;Turrientes
+37091;Ciadoncha
+37181;Cillaperlata
+37259;Cilleruelo de Abajo
+37426;Cilleruelo de Arriba
+37589;Briongos de Cervera
+37518;Ciruelos de Cervera
+37803;Cogollos
+38710;Aguillo
+38915;Ajarte
+38136;Albaina
+38788;Añastro
+38413;Araico
+38251;Arana
+38261;Argote
+38331;Armentia
+38975;Arrieta
+38944;Ascarza
+38012;Bajauri
+38759;Burgueta
+38881;Busto de Treviño
+38694;Cucho
+38366;Dordóniz
+39046;Doroño
+38436;Franco
+38187;Fuidio
+38956;Golernio
+38342;Grandival
+38829;Imiruri
+38031;Laño
+38454;Marauri
+38077;Mesanza
+38064;Moraza
+38287;Moscador de Treviño
+38514;Muergas
+37978;Obecuri
+38952;Ocilla
+38298;Ogueta
+38303;Ozana
+38715;Pangua
+38212;Pariza
+38325;Pedruzo
+38180;Samiano
+38678;San Esteban
+38083;San Martín de Galvarín
+38222;San Martín Zar
+38897;San Vicentejo
+38362;Saraso
+38408;Sáseta
+38156;Taravero
+38224;Torre
+38617;Treviño
+38757;Uzquiano
+38108;Villanueva Tobera
+39007;Zurbitu
+39120;Contreras
+39235;Coruña del Conde
+39419;Covarrubias
+39397;Camping de Covarrubias
+39295;Ura
+39555;Cubillo del Campo
+39646;Cubo de Bureba
+39723;La Cueva de Roa
+39808;Cuevas de San Clemente
+39874;Encío
+39890;Moriana
+133642;Obarenes
+39966;Espinosa de Cervera
+40024;Espinosa del Camino
+40696;Bárcenas
+40451;Espinosa de los Monteros
+36610;Para
+40432;Quintana de los Prados
+40332;Santa Olalla
+40889;Río de la Sía
+40868;Río de Lunada
+40833;Río Trueba
+40739;Rioseco
+41059;Arenillas de Muñó
+41371;Arroyo de Muñó
+41504;Estépar
+41739;Hormaza
+41192;Mazuelo de Muñó
+41645;Medinilla de la Dehesa
+41115;Pedrosa de Muñó
+41307;Quintanilla Somuñó
+41590;Vilvestre de Muñó
+41690;Villagutiérrez
+41415;Villavieja de Muñó
+41804;Granja Guimara
+41865;Fontioso
+41955;Frandovínez
+42070;Fresneda de la Sierra Tirón
+42143;Fresneña
+42103;San Cristóbal del Monte
+42171;Villamayor del Río
+42250;Fresnillo de las Dueñas
+42331;Fresno de Río Tirón
+42394;Fresno de Rodilla
+42518;Frías
+42674;Quintanaseca
+42438;Tobera
+42774;Calzada de Bureba
+42757;La Estación
+42804;Fuentebureba
+42899;Fuentecén
+43063;Fuentelcésped
+43161;Fuentelisendo
+43284;Fuentemolinos
+43379;Fuentenebro
+43621;Fuentespina
+43765;Ahedo de Bureba
+43736;Caborredondo
+43757;Galbarros
+43773;San Pedro de la Hoz
+43848;La Gallega
+43976;Grijalba
+44046;Grisaleña
+44242;Gumiel de Izán
+44617;Gumiel de Mercado
+44475;Ventosilla
+44724;Hacinas
+44826;Haza
+44921;Hontanas
+44993;Hontangas
+45107;Hontoria de la Cantera
+45639;Aldea del Pinar
+45314;Hontoria del Pinar
+45516;Navas del Pinar
+45765;Hontoria de Valdearados
+45898;Borcos
+45953;Espinosilla de San Bartolomé
+45922;La Parte
+45853;Solano
+45975;Hornillos del Camino
+46035;La Horra
+46222;Hortigüela
+46325;Hoyales de Roa
+46447;Huérmeces
+46572;Quintanilla Pedro Abarca
+46491;Ruyales del Páramo
+46551;San Pantaleón del Páramo
+46634;Huerta de Arriba
+46777;Hinojar del Rey
+46954;Huerta de Rey
+46864;Peñalba de Castro
+46829;Quintanarraya
+47089;Congosto
+47176;Fuencaliente de Puerta
+47353;Fuenteodra
+47311;Humada
+47144;Ordejón de Abajo
+47093;Ordejón de Arriba
+47396;Rebolledo Traspeña
+47203;San Martín de Humada
+47276;Villamartín de Villadiego
+47459;Las Mijaradas
+47438;Hurones
+47818;Cueva de Juarros
+47875;Cuzcurrita de Juarros
+47848;Espinosa de Juarros
+48154;Ibeas de Juarros
+47750;Modúbar de San Cibrián
+48000;Mozoncillo de Juarros
+47931;Salgüero de Juarros
+2824;San Millán de Juarros
+47688;Santa Cruz de Juarros
+47530;Cabañas de Juarros
+47569;Matalindo de Juarros
+48266;Ibrillos
+48366;Iglesiarrubia
+48490;Iglesias
+48824;Cañizar de Argaño
+48610;Isar
+48730;Palacios de Benaver
+48903;Villorejo
+49001;Itero del Castillo
+49072;Jaramillo de la Fuente
+49135;Jaramillo Quemado
+49595;Castrobarto
+49507;Colina
+49263;Cubillos de Losa
+49677;Las Eras
+49730;Lastras de las Eras
+49298;Tabliega
+49340;Villalacre
+49453;Villatarás
+49385;Villaventín
+49932;Mijala
+49788;Murita
+49884;Villalba de Losa
+103274;Villota
+49910;Zaballa
+48245;Aceña de Lara
+49993;Lara de los Infantes
+50026;Vega de Lara
+50064;Paúles de Lara
+50207;Arroyo de San Zadornil
+50186;San Millán de San Zadornil
+50141;San Zadornil
+50121;Villafría de San Zadornil
+50422;Castrillo Solarana
+50784;Lerma
+50386;Rabé de los Escuderos
+50573;Revilla-Cabriada
+50966;Ruyales del Agua
+50874;Santillán del Agua
+50475;Villoviado
+51123;Llano de Bureba
+51231;Madrigal del Monte
+51304;Tornadijo
+51399;Madrigalejo del Monte
+51486;Montuenga
+51543;Mahamud
+51639;Mambrilla de Castrejón
+51837;Cubillejo de Lara
+51725;Mambrillas de Lara
+51809;Quintanilla de las Viñas
+51900;Mamolar
+51963;Manciles
+52023;Mazuela
+52132;Mecerreyes
+54367;Angosto
+53088;Bóveda de la Rivera
+52538;Bustillo de Medina
+53996;La Cerca
+52659;Criales
+53791;Gobantes
+53042;Medina de Pomar
+52839;Betarrés
+52979;Villacobos
+53120;Urbanización Villamar
+54052;Momediano
+52476;Moneo
+54079;Návagos
+54319;Oteo
+103041;Robredo de Losa
+54199;Paresotas
+53815;Perex
+53532;Pomar
+52961;Quintanamacé
+54303;Recuenco
+54264;La Riba
+53551;Rosales
+54217;Rosío
+54140;Salinas de Rosío
+54108;Santurde
+53683;Torres de Medina
+52573;El Vado
+52647;Villacomparada
+53993;Villamor
+52397;Villarán
+53874;Villate
+53906;Villatomil
+53722;Miñón
+53839;Villamezán
+54622;Melgar de Fernamental
+54827;San Llorente de la Vega
+54940;Santa María Ananúñez
+54976;Tagarrosa
+54897;Valtierra de Riopisuerga
+55716;Ael
+55770;Almendres
+55643;Baíllo
+55710;Casares
+55513;Cebolleros
+55370;Extramiana
+55802;Hierro
+55693;Lechedo
+55105;Mijangos
+55206;Nofuentes
+55786;Paralacuesta
+55653;Pradolamata
+55684;Quintana-Entrepeñas
+55573;Quintanalacuesta
+55615;Quintanilla-Montecabezas
+55546;Las Quintanillas
+55745;San Cristóbal de Almendres
+55144;Santa Coloma
+55300;Urria
+55496;Valdelacuesta
+55774;Valmayor de Cuesta Urria
+55442;Villamagrín
+55293;Villapanillo
+55456;Villavedeo
+56961;Agüera
+56158;Baranda
+55986;Bárcena de Pienza
+56232;Barcenillas del Ribero
+56754;Bercedo
+56378;Cuestahedo
+56019;Gayangos
+56662;Edesa
+56477;Loma
+56712;Montecillo
+56889;Noceco
+56251;Quintanahedo
+55926;Quintanilla de Pienza
+56636;Quintanilla Sopeña
+56102;Revilla de Pienza
+57006;San Pelayo
+56329;Villalázara
+56551;Villasante
+58050;Barcenillas de Cerezos
+57364;Bedón
+57220;Butrera
+57187;Cogullos
+57514;Cornejo
+57628;Cueva
+57709;Entrambosríos
+57233;Ahedo de Linares
+57575;Hornillalastra
+57759;Hornillalatorre
+57372;Hornillayuso
+57267;Linares
+57102;Nela
+57643;La Parte de Sotoscueva
+57312;Pereda
+57976;Quintanilla del Rebollar
+57796;Quintanilla de Sotoscueva
+57147;Quintanilla Valdebodres
+57858;Quisicedo
+58025;El Rebollar
+58074;Redondo
+57119;Sobrepeña
+57773;Vallejo
+57928;Villabáscones
+57468;Villamartín de Sotoscueva
+58182;Brizuela
+133643;Busnela
+58429;Cidad de Valdeporres
+58565;Dosante
+58637;Ahedo de las Pueblas
+58163;Leva
+58476;Pedrosa de Valdeporres
+58262;Puentedey
+58313;Quintanabaldo
+58567;Robredo de las Pueblas
+58611;Rozas
+58325;San Martín de las Ollas
+58593;San Martín de Porres
+58387;Santelices
+58219;Villavés
+59128;El Almiñé
+59060;Arroyo de Valdivielso
+58868;Condado
+58899;Hoz de Valdivielso
+58805;Panizares
+58965;Población de Valdivielso
+59281;Puente Arenas
+59161;Quecedo de Valdivielso
+59242;Quintana de Valdivielso
+59078;Santa Olalla de Valdivielso
+59031;Tartalés de los Montes
+59014;Toba de Valdivielso
+59348;Valdenoceda
+58954;Valhermosa
+59445;Milagros
+59871;Arce
+60924;Ayuelas
+60937;Azucarera Leopoldo
+59830;Bardauri
+60455;Bayas
+59755;Los Corrales
+60067;El Crucero
+61039;Guinicio
+3081;Herrera
+59707;Ircio
+60371;Miranda de Ebro
+61022;Montañana
+59585;La Nave
+59812;Orón
+59672;San Miguel del Monte
+61008;Suzana
+106069;Ternero
+59694;Valverde de Miranda
+60605;Alto San Roque
+59898;Urbanización El Lago
+60332;Los Ángeles
+60743;Matillas
+60538;La Charca
+59782;Baños de Fuentecaliente
+59884;Arboleda/Los Linares
+59971;Crucero II
+61106;Miraveche
+61177;Cojóbar
+61276;Modúbar de la Emparedada
+61373;Monasterio de la Sierra
+61510;Monasterio de Rodilla
+61555;Santa Marina
+61663;Moncalvillo
+61795;Monterrubio de la Demanda
+61941;Montorio
+62095;Moradillo de Roa
+62209;Nava de Roa
+62294;Navas de Bureba
+62355;Nebreda
+62462;Neila
+62642;Olmedillo de Roa
+62729;Olmillos de Muñó
+63131;La Aldea
+63349;Barcina de los Montes
+63459;Bentretea
+63226;Castellanos de Bureba
+63670;Cereceda
+63064;Cornudilla
+62855;Hermosilla
+63187;La Molina del Portillo de Busto
+63532;Oña
+62985;La Parte de Bureba
+63492;Penches
+63283;Pino de Bureba
+63418;Terminón
+63626;Villanueva de los Montes
+63188;Zangandez
+63751;Oquillas
+63870;Orbaneja Riopico
+63825;Quintanilla Riopico
+63942;Padilla de Abajo
+64033;Padilla de Arriba
+64088;Padrones de Bureba
+64322;Palacios de la Sierra
+64557;Palacios de Riopisuerga
+64639;Palazuelos de la Sierra
+64741;Palazuelos de Muñó
+64968;El Hormiguero
+64914;Pampliega
+64999;Santiuste
+64991;Torrepadierne
+65176;Pancorbo
+65279;Pardilla
+65366;Cubilla de la Sierra
+65430;Ranera
+65486;Valderrama
+65730;Boada de Roa
+65905;Guzmán
+65660;Pedrosa de Duero
+65819;Quintanamanvirgo
+65580;Valcabado de Roa
+65963;Pedrosa del Páramo
+66097;Pedrosa del Príncipe
+66349;Lodoso
+66187;Marmellar de Abajo
+66251;Pedrosa de Río Úrbel
+66415;San Pedro Samuel
+66499;Casanova
+66570;Peñaranda de Duero
+66763;Peral de Arlanza
+66896;Piérnigas
+67022;Pineda de la Sierra
+67091;Pineda Trasmonte
+67308;Gete
+67210;Pinilla de los Barruecos
+67413;Piedrahíta de Muñó
+67342;Pinilla de los Moros
+67521;Pinilla Trasmonte
+67681;Castil de Lences
+67643;Lences de Bureba
+67827;Poza de la Sal
+67916;Prádanos de Bureba
+68200;Garganchón
+68080;Pradoluengo
+68364;Presencio
+68583;La Puebla de Arganzón
+68644;Villanueva de la Oca
+68732;Puentedura
+68846;Quemada
+68922;Quintanabureba
+68985;Quintana del Pidio
+69156;Marcillo
+69117;Quintanaélez
+69165;Quintanilla Cabe Soto
+69183;Soto de Bureba
+69247;Quintanaortuño
+69402;Quintanapalla
+69619;Quintanar de la Sierra
+69895;Quintanavides
+70027;Quintanilla de la Mata
+70163;Castroceniza
+70117;Quintanilla del Coco
+70249;Las Quintanillas
+70323;Santa María Tajadura
+70296;Villarmentero
+70366;Quintanilla San García
+70484;Quintanilla Vivar
+70577;Vivar del Cid
+70770;Rabanera del Pinar
+70889;Alarcia
+70927;Rábanos
+70940;Villamudria
+70967;Rabé de las Calzadas
+71057;Albacastro
+71297;Castrecias
+71344;La Rebolleda
+71258;Rebolledo de la Torre
+71034;Valtierra de Albacastro
+71101;Villela
+71391;Redecilla del Camino
+71437;Quintanilla del Monte en Rioja
+71491;Redecilla del Campo
+71462;Sotillo de Rioja
+71758;Regumiel de la Sierra
+71805;Reinoso de Bureba
+71832;Retuerta
+72014;La Revilla
+71935;Ahedo
+72115;Quintanalara
+72180;Revilla del Campo
+72427;Urbanización El Encinar de Humienta
+72266;Humienta
+72452;Olmosalbos
+72360;Revillarruz
+72531;Revilla Vallejera
+72602;Vizmalo
+72655;Rezmondo
+72717;Riocavado de la Sierra
+72954;Roa
+73216;Quintanilla Cabe Rojas
+73178;Rojas
+73348;Royuela de Río Franco
+73441;La Veguecilla
+73555;Rubena
+73654;Rublacedo de Abajo
+73625;Rublacedo de Arriba
+73743;Herrera de Valdivielso
+73686;Hozabejas
+73772;Huéspeda
+73758;Madrid de las Caderechas
+73722;Ojeda
+73710;Rucandio
+73818;Salas de Bureba
+74326;Arroyo de Salas
+74227;Castrovido
+74379;Hoyuelos de la Sierra
+74040;Salas de los Infantes
+74268;Terrazas
+74425;Saldaña de Burgos
+74516;Ventas de Saldaña
+74622;Buezo
+74644;Revillalcón
+74604;Salinillas de Bureba
+74690;San Adrián de Juarros
+74799;San Juan del Monte
+74884;Quintanilla de las Carretas
+74928;San Mamés de Burgos
+75020;San Martín de Rubiales
+75196;Iglesiapinta
+75159;San Millán de Lara
+75289;Santa Cecilia
+75415;Santa Cruz de la Salceda
+19211;Santa Cruz del Valle Urbión
+75594;Santa Gadea del Cid
+75694;Santa Inés
+76046;Santa María del Campo
+76402;Piedrahíta de Juarros
+76442;Santa María del Invierno
+76540;Santa María del Mercadillo
+76632;Santa María Ribarredonda
+76736;Santa Olalla de Bureba
+76799;Santibáñez de Esgueva
+76867;Barriosuso
+76882;Santibáñez del Val
+77040;Hinojar de Cervera
+76970;Hortezuelos
+76995;Peñacoba
+77102;Santo Domingo de Silos
+77221;Espinosa del Monte
+77236;San Clemente del Valle
+77193;San Vicente del Valle
+77470;Ayoluengo
+77273;Moradillo del Castillo
+77321;San Andrés de Montearados
+77260;Santa Coloma del Rudrón
+77568;Sargentes de la Lora
+77406;Valdeajos de la Lora
+77693;Sarracín
+77826;Castrillo de Murcia
+78109;Citores del Páramo
+78169;Olmillos de Sasamón
+78396;Sasamón
+77962;Villandiego
+78520;Villasidro
+77919;Yudego
+78592;La Sequera de Haza
+78646;Solarana
+78693;Mahallos
+78724;Sordillos
+79047;Pinillos de Esgueva
+78921;Sotillo de la Ribera
+79107;Sotragero
+79958;Amaya
+79380;Barrio de San Felices
+79580;Cañizar de Amaya
+79877;Cuevas de Amaya
+79217;Guadilla de Villamar
+79813;Peones
+71042;Puentes de Amaya
+79309;Quintanilla de Río Fresno
+80041;Rebolledillo de la Orden
+79750;Salazar de Amaya
+79694;Sotovellanos
+79469;Sotresgudo
+80124;Susinos del Páramo
+80164;Tamarón
+80303;Tardajos
+80415;Tejada
+80497;Terradillos de Esgueva
+80527;Tañabueyes de la Sierra
+80553;Tinieblas de la Sierra
+80615;Tobar
+80788;Tordómar
+80876;Torrecilla del Monte
+80942;Torregalindo
+81022;Torrelara
+81154;Hontoria de Riofranco
+81161;Retortillo
+81098;Torrepadre
+81323;Torresandino
+81616;Tórtoles de Esgueva
+81564;Villovela de Esgueva
+81760;Tosantos
+82172;Arroyuelo
+82130;Cadiñanos
+81806;Palazuelos de Cuesta Urría
+82063;Santotís
+81830;Tartalés de Cilla
+81907;Trespaderne
+82021;Virués
+82281;Bañuelos del Rudrón
+82463;Covanera
+82541;San Felices del Rudrón
+82392;El Molino
+82406;Tablada del Rudrón
+82329;Tubilla del Agua
+82650;Tubilla del Lago
+82738;La Nuez de Arriba
+82810;Quintana del Pino
+82839;Úrbel del Castillo
+82992;Vadocondes
+83086;Valdeande
+83164;Valdezate
+83340;Valdorros
+83436;Valmala
+83502;Vallarta de Bureba
+83672;Argés
+83620;Arreba
+83621;Cidad de Ebro
+83756;Consortes
+83700;Crespos
+83748;Cueva de Manzanedo
+7334;Manzanedillo
+83723;Manzanedo
+83772;Peñalba de Manzanedo
+83605;Población de Arreba
+83661;Rioseco
+83790;San Martín del Rojo
+83688;San Miguel de Cornezuelo
+83572;Vallejo de Manzanedo
+83796;Villasopliz
+84098;La Abadía
+84072;Ahedo de Angulo
+84092;Cozuela
+84066;Encima Angulo
+84079;Las Fuentes
+133644;Martijana
+83921;Oseguera
+84272;Barruso
+84270;Mediavilla
+84270;San Esteban
+84277;Santa María Egipciaca
+84271;La Carta
+84963;Arceo
+85000;Angostina
+85119;Artieta
+85159;Berrandúlez
+83912;Las Arenas de Ayega
+85441;Arza
+84016;La Azuela
+85415;Orrantia
+85378;San Pelayo
+84909;Barrasa
+85566;Antuñano
+85458;Bárcena
+85585;El Berrón
+85596;Bortedo
+83833;Burceña
+85228;La Llosa
+85310;Sobreviñas
+84184;Cadagua
+84174;Estación de Cadagua
+85218;Las Bárcenas
+85162;Campillo de Mena
+85083;Caniego
+85084;Cristantes
+85072;La Mata
+85084;Santiuste
+85078;Carrasquedo
+84294;Ciella
+84435;Cilieza
+84448;Las Bárcenas
+84749;Cirión
+84449;La Roza
+84926;Concejero
+84680;Los Paradores de Concejero
+84898;La Ribera
+84755;Covides
+84967;Mercadillo (Covides)
+85075;Cerezo
+85145;Entrambasaguas
+83945;Las Islas
+84992;Mercadillo (Entrambasaguas)
+85105;Urbanización el Mirador
+85480;Las Campas
+85603;Las Cuevas
+85551;Gijano
+83882;Nocedal
+85506;Urbanización Vallehermoso
+132569;Haedillo
+85318;Hornes
+85261;Palacio de Hornes
+85015;Hoz de Mena
+84644;Medio
+84681;Sobrado
+83839;Vía
+84637;Laya
+84479;Leciñana de Mena
+84309;Lezana de Mena
+84397;Lorcio
+85273;Maltrana
+85263;Maltranilla
+84988;Medianas
+85202;Menamayor
+84983;El Crucero
+84999;Montiano
+85440;Las Campas
+85393;Cereceda
+85443;Nava de Mena
+85560;Pantano
+81670;Tarriba
+85588;La Vega de Nava
+85473;La Tapia
+85459;Opio
+85046;Ordejón de Mena
+84472;Ovilla
+85407;Barrio Abajo
+85394;Barrio Arriba
+85374;San Bartolomé
+85335;La Presilla
+85349;Ribota de Ordunte
+85333;Río de Mena
+84936;Ro
+85137;Santa Cruz de Mena
+84709;Araduenga
+84612;Santa María del Llano de Tudela
+83969;Santa Olaja
+85569;La Cayuela
+85475;Santecilla
+84033;La Llana
+84457;Luengas
+84462;Santiago de Tudela
+84113;Barriolaza
+84109;Casadilla
+84106;Estación de Vigo Siones
+84116;Palacio
+84136;Los Portales
+84150;Quintanilla de Siones
+84141;San Martín
+84233;Las Casetas
+84243;San Alberto
+84222;Sopeñano
+84754;Los Paradores de Taranco
+85056;Taranco
+85365;Ungo
+84391;Vallejo de Mena
+84165;Vallejuelo
+83830;Valluerca
+85077;Ventades
+85309;Viérgol
+84132;El Vigo
+84803;Villanueva de Mena
+84819;Villasana de Mena
+84378;Villasuso de Mena
+84452;Barrio de Cantonad
+84625;Los Paradores de Vivanco
+84552;San Juan
+84470;Urbaneja
+84445;Señorío de Vivanco
+85742;Cueva Cardiel
+85626;Mozoncillo de Oca
+85710;Villalbos
+85728;Villalmondar
+85663;Villalómez
+85687;Villanasur Río de Oca
+86127;Barcina del Barco
+86641;Bascuñuelos
+86502;Cormenzana
+85864;Cuezva
+86479;Gabanes
+86021;Garoña
+86798;Hedeso
+86746;Herrán
+86602;Leciñana de Tobalina
+86440;Lomana
+86538;Lozares de Tobalina
+86168;Mijaralengua
+85906;Montejo de Cebas
+85943;Montejo de San Miguel
+85828;Orbañanos
+86923;La Orden de Tobalina
+86571;Pajares
+86029;Pangusión
+86960;Pedrosa de Tobalina
+86859;La Prada
+86596;Promediano
+86381;Quintana Martín Galíndez
+86207;Quintana María
+86672;Ranedo
+86751;La Revilla de Herrán
+86958;Rufrancos
+86090;San Martín de Don
+85949;Santa María de Garoña
+86246;Santocildes
+85848;Tobalinilla
+87017;Valujera
+86821;Las Viadas
+86321;Villaescusa de Tobalina
+87644;Argomedo
+87336;Arnedo
+87303;Bezana
+87697;Castrillo de Bezana
+87452;Cilleruelo de Bezana
+87240;Cubillos del Rojo
+87507;Herbosa
+87208;Hoz de Arreba
+87149;Lándraves
+87369;Montoto
+87136;Munilla
+87180;Pradilla de Hoz de Arreba
+87640;Quintanaentello
+87338;Quintanilla San Román
+87674;Riaño
+87426;San Cibrián
+87585;San Vicente de Villamezán
+87415;Soncillo
+87312;Torres de Abajo
+87040;Villabáscones de Bezana
+87414;Villamediana de San Román
+87608;Virtus
+87922;Huerta de Abajo
+88052;Bezares
+87980;Quintanilla de Urrilla
+87847;Tolbaños de Abajo
+87807;Tolbaños de Arriba
+88014;Vallejimeno
+88280;Corralejo de Valdelucio
+88297;Escuderos de Valdelucio
+88572;Fuencaliente de Lucio
+88066;Mundilla
+88503;Llanillo de Valdelucio
+88436;Paúl de Valdelucio
+88365;Quintanas de Valdelucio
+88424;Renedo de la Escalera
+88215;Barriolucio
+88230;La Riba de Valdelucio
+88176;Solanas de Valdelucio
+88756;Ailanes
+88745;Barrio la Cuesta
+88777;Báscones de Zamanzas
+88701;Gallejones
+88724;Robredo de Zamanzas
+88671;Villanueva-Rampalay
+88812;Vallejera
+88885;Valles de Palenzuela
+88938;Valluércanes
+89161;Guma
+89101;Linares de la Vid
+89037;Zuzones
+89214;La Vid de Bureba
+89267;Vileña
+89315;Viloria de Rioja
+89539;Vilviestre del Pinar
+91194;Acedillo
+90568;Arenillas de Villadiego
+91382;Barrios de Villadiego
+90673;Barruelo de Villadiego
+91247;Boada de Villadiego
+91094;Brulles
+90740;Bustillo del Páramo
+90115;Castromorca
+91313;Coculina
+91640;Fuencivil
+90718;Hormazuela
+90796;Melgosa de Villadiego
+90038;Olmos de la Picaza
+91505;Palazuelos de Villadiego
+91420;Quintanilla de la Presa
+91673;Rioparaíso
+90936;Sandoval de la Reina
+90815;Tablada de Villadiego
+90450;Tapia
+91720;San Miguel
+91792;Santa Cruz
+91748;Santiago
+90286;Villadiego
+90953;Villahernando
+89935;Villahizán de Treviño
+91166;Villalbilla de Villadiego
+90537;Villalibado
+90080;Villanoño
+90188;Villanueva de Odra
+91569;Villanueva de Puerta
+90621;Villaute
+91484;Villavedón
+91049;Villusto
+91855;Villaescusa de Roa
+91910;Quintanilla del Monte en Juarros
+91955;Villaescusa La Solana
+91933;Villaescusa la Sombría
+92048;Rupelo
+92012;Villaespasa
+92169;Ocón de Villafranca
+92144;Villafranca Montes de Oca
+92246;Villafruela
+92452;Ezquerra
+92368;Santa Olalla del Valle
+92421;Villagalijo
+92774;Villagonzalo Pedernales
+93066;Villahoz
+93200;Villalba de Duero
+93348;Renuncio
+93413;Villacienzo
+93567;Villalbilla de Burgos
+93707;Villalbilla de Gumiel
+93797;Villaldemiro
+93996;Villalmanzo
+94218;Villamayor de los Montes
+94321;Villamayor de Treviño
+94393;Villambistia
+94439;Villamedianilla
+94486;Villamiel de la Sierra
+94575;Villafuertes
+94657;Villangómez
+94764;Villanueva de Argaño
+94843;Villanueva de Carazo
+94915;Villanueva de Gumiel
+94988;Villanueva de Teba
+95047;Villaquirán de la Puebla
+95130;Villanueva de las Carretas
+95103;La Estación
+95160;Villaquirán de los Infantes
+95329;Villariezo
+95476;Villasandino
+95660;Urrez
+95786;Villasur de Herreros
+95865;Villatuelda
+95989;Revenga de Muñó
+96039;Villaverde del Monte
+96126;Villaverde-Mogina
+96212;Villayerno Morquillas
+96291;Villazopeque
+96406;Villamorón
+96372;Villegas
+96500;Mazueco
+96434;Quintanilla Cabrera
+96458;Villoruebo
+96542;Vizcaínos
+96635;Zael
+96692;Zarzosa de Río Pisuerga
+96831;Zazuar
+96931;Zuñeda
+97104;Báscones del Agua
+97103;Quintanilla del Agua
+97004;Tordueles
+97576;Avellanosa del Páramo
+97797;Las Celadas
+97363;Mansilla de Burgos
+97624;Miñón de Santibáñez
+97463;La Nuez de Abajo
+97501;Las Rebolledas
+97795;Ros
+97689;Santibáñez Zarzaguda
+97846;Los Tremellos
+97417;Zúmel
+98144;La Aldea
+98321;Andino
+99474;Barriosuso
+98037;Barruelo
+98107;Bisjueces
+99205;Bocos
+99310;Campo
+99144;Casillas
+99318;Céspedes
+98820;Cigüenza
+99025;Escanduso
+99120;Escaño
+99494;Fresnedo
+98391;Horna
+98076;Incinillas
+99183;Lechedo
+97887;Mozares
+99179;La Quintana de Rueda
+98879;Quintanilla de los Adrianos
+98917;Quintanilla Socigüenza
+99358;Salazar
+98330;Santa Cruz de Andino
+99533;Torme
+98777;Tubilla
+98963;Villacanes
+99021;Villacomparada de Rueda
+98255;Villalaín
+99422;Villanueva la Blanca
+98711;Villanueva la Lastra
+98688;Villarcayo
+98297;Villarías
+99636;Celada de la Torre
+100185;Melgosa
+99710;Riocerezo
+99898;Rioseras
+99977;Robredo Temiño
+100033;Temiño
+100119;Tobes y Rahedo
+100674;Cortiguera
+100701;Cubillo del Butrón
+100834;Escalada
+100544;Gredilla de Sedano
+100446;Moradillo de Sedano
+100387;Mozuelos de Sedano
+100301;Nidáguila
+100604;Nocedo
+100921;Orbaneja del Castillo
+100739;Pesquera de Ebro
+100424;Quintanaloma
+100770;Quintanilla-Escalada
+100520;Sedano
+100349;Terradillos de Sedano
+100941;Turzo
+100619;Valdelateja
+102068;La Cabañuela
+101781;Castrillo de Rucios
+101343;Celadilla-Sotobrín
+102171;Cernégula
+101730;Cobos Junto a la Molina
+101661;Gredilla la Polera
+101962;Hontomín
+102034;Lermilla
+102108;Masa
+101760;Mata
+101621;La Molina de Ubierna
+101532;Peñahorada
+101005;Quintanarrío
+101887;Quintanarruz
+101955;Quintanilla Sobresierra
+101813;Robredo-Sobresierra
+101571;San Martín de Ubierna
+101121;Sotopalacios
+101471;Ubierna
+101711;Villalbilla Sobresierra
+101179;Villanueva de Río Ubierna
+101379;Villaverde Peñahorada
+102548;Arroyal
+102598;Marmellar de Arriba
+102448;Páramo del Arroyo
+102354;Quintanadueñas
+102493;Villarmero
+102885;Aostri de Losa
+103281;Barriga
+103487;Calzada
+103926;Castresana
+102862;Castriciones
+102900;Fresno de Losa
+102749;Hozalla
+103826;Lastras de la Torre
+103390;Lastras de Teza
+103460;Llorengoz
+102812;Mambliga
+103627;Quincoces de Yuso
+102766;Quintanilla la Ojada
+104078;Relloso
+103028;San Martín de Losa
+102961;Río de Losa
+103263;San Llorente
+102840;San Pantaleón de Losa
+103351;Teza de Losa
+104003;Villabasil
+103228;Villacián
+102928;Villalambrús
+102780;Villaluenga
+103210;Villaño
+103865;Vescolides
