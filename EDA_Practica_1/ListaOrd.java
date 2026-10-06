@@ -1,4 +1,4 @@
-// Autores: Alejandro García Lavndera y Manuel Arribas Martinez
+// Autores: Alejandro Garcia Lavandera y Manuel Arribas Martinez
 
 public class ListaOrd {
     public ListaOrd(double[] dist, int cap) {}
