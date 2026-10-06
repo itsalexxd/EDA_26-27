@@ -1,4 +1,4 @@
-// Autores: <nombre1>, <nombre2>
+// Autores: Alejandro Garcia Lavandera y Manuel Arribas Martinez
 
 import java.util.ArrayList;
 import java.util.List;
