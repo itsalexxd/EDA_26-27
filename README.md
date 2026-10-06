@@ -4,7 +4,7 @@ Estructuras de Datos y Algoritmos · Curso 2026/27
 
 Aplicación Java que resuelve dos problemas sobre la red de carreteras de una zona geográfica (Castilla y León) y mide el tiempo de ejecución de cada etapa para estimar su complejidad temporal.
 
-**Autores:** _<nombre 1>, <nombre 2>_
+**Autores:** _<Alejandro García Lavandera>, <Manuel Arribas Martinez>_
 
 ## Descripción
 
@@ -100,3 +100,7 @@ donde N<sub>c</sub>, N<sub>t</sub>, N<sub>n</sub> y N<sub>s</sub> son el número
 ## Entrega
 
 Informe en PDF más los ficheros `Solucion.java`, `ListaOrd.java` y `Evaluador.java` en el Campus Virtual (fecha límite: domingo 8 de noviembre, 23:59). Defensa presencial del 9 al 13 de noviembre.
+
+
+
+   📄 [Enunciado completo de la práctica](docs/Enunciado.pdf)
